@@ -373,6 +373,10 @@ body {
     padding: 30px;
 }
 
+#sm-banner .banner-box2{
+    background-image: url("img/banner/b10.jpg");
+}
+
 #sm-banner h4{
     color: white;
     font-size: 20px;
@@ -389,4 +393,16 @@ body {
     font-weight: 500;
     padding-bottom: 15px;
 }
+
+
+#sm-banner .banner-box:hover button{
+    background: rgb(131, 189, 98);
+    border: 1px solid rgb(131, 189, 98);
+}
+
+
+
+
+
+
 
